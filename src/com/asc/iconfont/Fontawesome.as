@@ -27,13 +27,12 @@ package com.asc.iconfont
 		
 		/**
 		 * 获取一个sprite， icon位于该sprite的居中位置
-		 * @param	text icon对应的Unicode编码，例如"0xf002"
+		 * @param	unicode icon对应的Unicode编码，例如"0xf002", 0xf002
 		 * @param	options icon的相关设置，支持属性color, bgColor, bgAlpha, bgWidth, bgHeight, iconWidth, iconHeight
 		 * @return
 		 */
-		public function icon(text:String, options:Object = null):Sprite
+		public function icon(unicode:*, options:Object = null):Sprite
 		{
-			text = String.fromCharCode(text);
 			if (!options)
 				options = {};
 			var sprite:Sprite = new Sprite();
@@ -57,7 +56,7 @@ package com.asc.iconfont
 			bg.graphics.endFill();
 			sprite.addChild(bg);
 			
-			var iconSprite:BaseIconSprite = createIcon(fontName, text, options);
+			var iconSprite:BaseIconSprite = createIcon(fontName, String.fromCharCode(unicode), options);
 			iconSprite.width = iconWidth;
 			iconSprite.x = (bgWidth - iconSprite.width) / 2;
 			iconSprite.y = (bgHeight - iconSprite.height) / 2;

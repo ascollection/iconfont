@@ -50,17 +50,17 @@ package
 			xiamiIcon.y = 100;
 			addChild(xiamiIcon);
 			
-			var zhihuIcon:Sprite = Fontdiao.getIntance().icon("0xf146", {color: 0xff0000, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
+			var zhihuIcon:Sprite = Fontdiao.getIntance().icon(0xf146, {color: 0xff0000, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
 			zhihuIcon.x = 100;
 			zhihuIcon.y = 200;
 			addChild(zhihuIcon);
 			
-			var letvIcon:Sprite = Fontdiao.getIntance().icon("0xf11f", {color: 0x660000, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
+			var letvIcon:Sprite = Fontdiao.getIntance().icon(0xf11f, {color: 0x660000, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
 			letvIcon.x = 200;
 			letvIcon.y = 200;
 			addChild(letvIcon);
 			
-			var yhdIcon:Sprite = Fontdiao.getIntance().icon("0xf13c", {color: 0x00ffff, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
+			var yhdIcon:Sprite = Fontdiao.getIntance().icon(0xf13c, {color: 0x00ffff, bgWidth: 100, bgHeight: 100, iconWidth: 80, iconHeight: 80});
 			yhdIcon.x = 300;
 			yhdIcon.y = 200;
 			addChild(yhdIcon);

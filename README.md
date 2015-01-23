@@ -1,6 +1,6 @@
 # Iconfont
-AS3的iconfont的工具类，是运用Adobe的FTE（Flash Text Engine）技术将嵌入的ICON字体呈现出来。  
-支持SDK 4.1+，嵌入的字体文件为TTF字体
+AS3的iconfont工具类，运用Adobe的FTE（Flash Text Engine）技术将嵌入的ICON字体呈现出来  
+支持SDK 4.1+，嵌入的字体文件为TTF字体文件
 
 
 ## Usage 使用
@@ -15,7 +15,7 @@ searchIcon.x = 100;
 searchIcon.y = 0;
 addChild(searchIcon);
 
-var musicIcon:Sprite = Fontawesome.getIntance().icon("0xf001", {
+var musicIcon:Sprite = Fontawesome.getIntance().icon(0xf001, {
 	color: 0xff0000, 
 	bgWidth: 30, 
 	bgHeight: 30, 
