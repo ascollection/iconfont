@@ -1,0 +1,321 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-842cm');
+	src:url('fonts/icomoon.eot?#iefix-842cm') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-842cm') format('woff'),
+		url('fonts/icomoon.ttf?-842cm') format('truetype'),
+		url('fonts/icomoon.svg?-842cm#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-uniF104:before {
+	content: "\f104";
+}
+
+.icon-uniF149:before {
+	content: "\f149";
+}
+
+.icon-uniF131:before {
+	content: "\f131";
+}
+
+.icon-uniF128:before {
+	content: "\f128";
+}
+
+.icon-uniF111:before {
+	content: "\f111";
+}
+
+.icon-uniF11B:before {
+	content: "\f11b";
+}
+
+.icon-uniF138:before {
+	content: "\f138";
+}
+
+.icon-uniF129:before {
+	content: "\f129";
+}
+
+.icon-uniF125:before {
+	content: "\f125";
+}
+
+.icon-uniF11D:before {
+	content: "\f11d";
+}
+
+.icon-uniF11A:before {
+	content: "\f11a";
+}
+
+.icon-uniF12B:before {
+	content: "\f12b";
+}
+
+.icon-uniF117:before {
+	content: "\f117";
+}
+
+.icon-uniF11E:before {
+	content: "\f11e";
+}
+
+.icon-uniF102:before {
+	content: "\f102";
+}
+
+.icon-uniF112:before {
+	content: "\f112";
+}
+
+.icon-uniF133:before {
+	content: "\f133";
+}
+
+.icon-uniF137:before {
+	content: "\f137";
+}
+
+.icon-uniF148:before {
+	content: "\f148";
+}
+
+.icon-uniF120:before {
+	content: "\f120";
+}
+
+.icon-uniF12F:before {
+	content: "\f12f";
+}
+
+.icon-uniF146:before {
+	content: "\f146";
+}
+
+.icon-uniF144:before {
+	content: "\f144";
+}
+
+.icon-uniF124:before {
+	content: "\f124";
+}
+
+.icon-uniF143:before {
+	content: "\f143";
+}
+
+.icon-uniF142:before {
+	content: "\f142";
+}
+
+.icon-uniF11F:before {
+	content: "\f11f";
+}
+
+.icon-uniF10C:before {
+	content: "\f10c";
+}
+
+.icon-uniF113:before {
+	content: "\f113";
+}
+
+.icon-uniF10A:before {
+	content: "\f10a";
+}
+
+.icon-uniF12C:before {
+	content: "\f12c";
+}
+
+.icon-uniF13B:before {
+	content: "\f13b";
+}
+
+.icon-uniF106:before {
+	content: "\f106";
+}
+
+.icon-uniF109:before {
+	content: "\f109";
+}
+
+.icon-uniF140:before {
+	content: "\f140";
+}
+
+.icon-uniF13C:before {
+	content: "\f13c";
+}
+
+.icon-uniF127:before {
+	content: "\f127";
+}
+
+.icon-uniF13F:before {
+	content: "\f13f";
+}
+
+.icon-uniF115:before {
+	content: "\f115";
+}
+
+.icon-uniF12A:before {
+	content: "\f12a";
+}
+
+.icon-uniF136:before {
+	content: "\f136";
+}
+
+.icon-uniF123:before {
+	content: "\f123";
+}
+
+.icon-uniF108:before {
+	content: "\f108";
+}
+
+.icon-uniF139:before {
+	content: "\f139";
+}
+
+.icon-uniF103:before {
+	content: "\f103";
+}
+
+.icon-uniF116:before {
+	content: "\f116";
+}
+
+.icon-uniF135:before {
+	content: "\f135";
+}
+
+.icon-uniF10F:before {
+	content: "\f10f";
+}
+
+.icon-uniF122:before {
+	content: "\f122";
+}
+
+.icon-uniF118:before {
+	content: "\f118";
+}
+
+.icon-uniF134:before {
+	content: "\f134";
+}
+
+.icon-uniF132:before {
+	content: "\f132";
+}
+
+.icon-uniF147:before {
+	content: "\f147";
+}
+
+.icon-uniF145:before {
+	content: "\f145";
+}
+
+.icon-uniF126:before {
+	content: "\f126";
+}
+
+.icon-uniF13A:before {
+	content: "\f13a";
+}
+
+.icon-uniF107:before {
+	content: "\f107";
+}
+
+.icon-uniF10E:before {
+	content: "\f10e";
+}
+
+.icon-uniF101:before {
+	content: "\f101";
+}
+
+.icon-uniF130:before {
+	content: "\f130";
+}
+
+.icon-uniF10B:before {
+	content: "\f10b";
+}
+
+.icon-uniF10D:before {
+	content: "\f10d";
+}
+
+.icon-uniF100:before {
+	content: "\f100";
+}
+
+.icon-uniF110:before {
+	content: "\f110";
+}
+
+.icon-uniF141:before {
+	content: "\f141";
+}
+
+.icon-uniF13E:before {
+	content: "\f13e";
+}
+
+.icon-uniF12D:before {
+	content: "\f12d";
+}
+
+.icon-uniF13D:before {
+	content: "\f13d";
+}
+
+.icon-uniF105:before {
+	content: "\f105";
+}
+
+.icon-uniF11C:before {
+	content: "\f11c";
+}
+
+.icon-uniF121:before {
+	content: "\f121";
+}
+
+.icon-uniF12E:before {
+	content: "\f12e";
+}
+
+.icon-uniF119:before {
+	content: "\f119";
+}
+
+.icon-uniF114:before {
+	content: "\f114";
+}
+
