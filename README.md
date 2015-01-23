@@ -26,7 +26,7 @@ addChild(Logger.getInstance());
 ```
 
 ## Preview 预览图
-Fontawesome的使用
+Fontawesome的使用  
 ![](https://raw.githubusercontent.com/ascollection/iconfont/master/bin/preview/fontawesome.jpg)  
-Fontdiao的使用
+Fontdiao的使用  
 ![](https://raw.githubusercontent.com/ascollection/iconfont/master/bin/preview/fontdiao.jpg)  
